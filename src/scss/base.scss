@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --primary-color-1: hsl(182, 62%, 45%);
+  --primary-color-2: hsl(182, 62%, 55%);
+  --primary-color-3: hsl(182, 62%, 65%);
+  --primary-color-4: hsl(182, 62%, 75%);
+}
+
+@font-face {
+  font-family: vazir;
+  src: url("../fonts/Vazir.ttf");
+}
+
+body {
+  background: radial-gradient(#111, #222, #333);
+  color: #fff;
+  font-family: vazir;
+  @media screen and (max-width: 575px) {
+    background: radial-gradient(#000, #222, #444);
+  }
+}
+
+button {
+  font-family: vazir;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+ul {
+  padding-left: 0;
+}
