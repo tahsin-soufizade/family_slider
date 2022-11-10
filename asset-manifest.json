@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/family_slider/static/css/main.67dd58d1.css",
+    "main.js": "/family_slider/static/js/main.8c514968.js",
+    "static/media/Vazir.ttf": "/family_slider/static/media/Vazir.6f433e36522181de5c61.ttf",
+    "index.html": "/family_slider/index.html",
+    "main.67dd58d1.css.map": "/family_slider/static/css/main.67dd58d1.css.map",
+    "main.8c514968.js.map": "/family_slider/static/js/main.8c514968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67dd58d1.css",
+    "static/js/main.8c514968.js"
+  ]
+}
